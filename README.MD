@@ -11,7 +11,7 @@
 Este repositorio almacena el segundo Trabajo de Integracion de **Programación 1 - Matematica**.  
 
 📌 **Enlace al video subido a YouTube:**  
-- 
+- https://www.youtube.com/watch?v=KKQIO0lKWW4
 
 
 

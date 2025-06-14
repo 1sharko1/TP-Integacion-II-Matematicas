@@ -76,7 +76,7 @@ dnis = ["38161719", "46908852", "32612165", "40802037", "23135244"]
 print("Análisis de cada DNI:")
 
 # Se analiza cada DNI para calcular la suma total de sus dígitos y la frecuencia de cada uno (0 a 9)
-for i, dni in enumerate(dnis):
+for i, dni in enumerate(dnis): # enumerate(dnis) devuelve tanto el índice (i) como el valor (dni) de cada elemento en la lista.
     suma = 0  # Inicializa la suma de los dígitos del DNI
     frecuencias = {str(d): 0 for d in range(10)}  # Inicializa el diccionario con claves del 0 al 9
 
